@@ -1,0 +1,45 @@
+.fitimg {/* background-size : contain; */background-repeat : no-repeat;background-position : 50% 50%;}
+.usero .usinf {
+            width: 100%;
+            color: #888888;
+            margin-top: 0px;
+            margin-bottom: -2px;
+        }
+
+        .usero .usinf .stars i {
+            font-size: 80% !important;
+            margin-left: 2px;
+        }
+
+        .usero .u-msg {
+            width: 100%;
+            color: #888;
+            overflow: hidden !important;
+            max-height: 40px;
+        }
+
+        .usero .fa-btc, .usero .fa-btc span {
+            font-size: 80% !important;
+            margin: 1px 0 0;
+        }
+
+        .usero .u-topic {
+            margin-top: -1px;
+            overflow: hidden;
+        }
+
+        .usero .u-topic span {
+            padding: 0px 8px;
+            border-radius: 3px;
+        }
+
+        .usero .co {
+            width: 16px;
+            border-radius: 1px;
+            margin-top: 4px;
+        }
+
+        .usero .u-ico {
+            margin: 0px;
+            max-width: 90%;
+        }
